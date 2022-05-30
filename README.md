@@ -1,6 +1,5 @@
-# Проект по автоматизации тестирования для ![Firecode](https://hhcdn.ru/employer-logo/3065829.jpeg)
+# Проект по автоматизации тестирования для ![Firecode](https://firecode.ru/img/logo.svg)
 
-### Вебсайт [Firecode](https://firecode.ru/)
 
 ### **Содержание:**
 - [x] Технологии и инструменты
