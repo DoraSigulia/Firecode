@@ -1,6 +1,6 @@
-## Проект по автоматизации тестирования для ![Firecode]("https://ibb.co/CJ36LhC")
+# Проект по автоматизации тестирования для ![Firecode](https://hhcdn.ru/employer-logo/3065829.jpeg)
 
-###Вебсайт [Firecode](https://firecode.ru/)
+### Вебсайт [Firecode](https://firecode.ru/)
 
 ### **Содержание:**
 - [x] Технологии и инструменты
@@ -13,5 +13,17 @@
 
 
 ### **Технологии и инструменты**
-![IntelliJ IDEA]('http://www.w3.org/2000/svg') Java Selenide Selenoid Allure Report Gradle JUnit5 GitHub Jenkins Telegram
+<p align="center">
+  <img src="src/main/resources/file_to_Readme/Intelij_IDEA.svg" width="50" title="IntelliJ IDEA">
+  <img src="src/main/resources/file_to_Readme/Java.svg" width="50" alt="Java">
+  <img src="src/main/resources/file_to_Readme/Selenide.svg" width="50" alt="Selenide">
+  <img src="src/main/resources/file_to_Readme/Selenoid.svg" width="50" alt="Selenoid">
+  <img src="src/main/resources/file_to_Readme/Allure_Report.svg" width="50" alt="Allure Report">
+  <img src="src/main/resources/file_to_Readme/Gradle.svg" width="50" alt="Gradle">
+  <img src="src/main/resources/file_to_Readme/JUnit5.svg" width="50" alt="JUnit5">
+  <img src="src/main/resources/file_to_Readme/GitHub.svg" width="50" alt="GitHub">
+  <img src="src/main/resources/file_to_Readme/Jenkins.svg" width="50" alt="Jenkins">
+  <img src="src/main/resources/file_to_Readme/Telegram.svg" width="50" alt="Telegram">
+</p>
+
 
