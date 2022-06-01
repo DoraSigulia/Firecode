@@ -40,10 +40,6 @@ allure {
     }
 }
 
-compileJava {
-    options.encoding = 'UTF-8'
-}
-
 compileTestJava {
     options.encoding = 'UTF-8'
 }
@@ -63,7 +59,7 @@ tasks.withType(Test) {
         }
     }
 }
-task demoqa_tests(type: Test) {
+task firecode_tests(type: Test) {
     useJUnitPlatform{
         includeTags "test"
     }

@@ -31,7 +31,7 @@ public class Attach {
         return getWebDriver().getPageSource().getBytes(StandardCharsets.UTF_8);
     }
 
-    @Attachment(value = "Screenshot", type = "image/png", fileExtension = "png")
+    @Attachment(value = "Screenshot", type = "src/image/png", fileExtension = "png")
     public static byte[] attachScreenshot(){
         return ((TakesScreenshot) getWebDriver()).getScreenshotAs(OutputType.BYTES);
     }

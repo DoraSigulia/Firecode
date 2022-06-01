@@ -1,4 +1,4 @@
-# Проект по автоматизации тестирования для ![Firecode](https://hhcdn.ru/employer-logo/3065829.jpeg)
+# Проект по автоматизации тестирования для ![Firecode](src/image/3065829.jpeg)
 
 ### 👉 [Вебсайт](https://firecode.ru/)
 
@@ -17,16 +17,16 @@
 ### 🔥 Технологии и инструменты
 
 <p align="center">
-  <img src="src/main/resources/file_to_Readme/Intelij_IDEA.svg" width="50" title="IntelliJ IDEA">
-  <img src="src/main/resources/file_to_Readme/Java.svg" width="50" alt="Java">
-  <img src="src/main/resources/file_to_Readme/Selenide.svg" width="50" alt="Selenide">
-  <img src="src/main/resources/file_to_Readme/Selenoid.svg" width="50" alt="Selenoid">
-  <img src="src/main/resources/file_to_Readme/Allure_Report.svg" width="50" alt="Allure Report">
-  <img src="src/main/resources/file_to_Readme/Gradle.svg" width="50" alt="Gradle">
-  <img src="src/main/resources/file_to_Readme/JUnit5.svg" width="50" alt="JUnit5">
-  <img src="src/main/resources/file_to_Readme/GitHub.svg" width="50" alt="GitHub">
-  <img src="src/main/resources/file_to_Readme/Jenkins.svg" width="50" alt="Jenkins">
-  <img src="src/main/resources/file_to_Readme/Telegram.svg" width="50" alt="Telegram">
+  <img src="src/image/Intelij_IDEA.svg" width="50" title="IntelliJ IDEA">
+  <img src="src/image/Java.svg" width="50" alt="Java">
+  <img src="src/image/Selenide.svg" width="50" alt="Selenide">
+  <img src="src/image/Selenoid.svg" width="50" alt="Selenoid">
+  <img src="src/image/Allure_Report.svg" width="50" alt="Allure Report">
+  <img src="src/image/Gradle.svg" width="50" alt="Gradle">
+  <img src="src/image/JUnit5.svg" width="50" alt="JUnit5">
+  <img src="src/image/GitHub.svg" width="50" alt="GitHub">
+  <img src="src/image/Jenkins.svg" width="50" alt="Jenkins">
+  <img src="src/image/Telegram.svg" width="50" alt="Telegram">
 </p>
 
 ***
@@ -44,7 +44,7 @@
 ***
 ### 🔥 Сборка в Jenkins
 
-![Jenkins](src/main/resources/file_to_Readme/012-sigulia-FireCode.png)
+![Jenkins](src/image/012-sigulia-FireCode.png)
 
 ***
 ### 🔥 Параметры сборки в Jenkins:
@@ -61,7 +61,7 @@
 ### 🔥 Параметры сборки можно указать при запуске проекта:
 
 
-![options](src/main/resources/file_to_Readme/options.png)
+![options](src/image/options.png)
 
 ***
 ### 🔥 Запуск из терминала
@@ -83,17 +83,17 @@
 
 - Главный экран
 
-![AllureReport](src/main/resources/file_to_Readme/AllureReport.png)
+![AllureReport](src/image/AllureReport.png)
 
 - Описание тестов с добавленнием скриншотов, видео и логов 
 
-![AllureReportSuit](src/main/resources/file_to_Readme/AllureReportSuit.png)
+![AllureReportSuit](src/image/AllureReportSuit.png)
 
 ***
 ### 🔥 Видео примеры прохождения тестов
 
 
-![video](src/main/resources/file_to_Readme/video.gif)
+![video](src/image/video.gif)
 
 ***
 ### 🔥 Уведомления в Telegram
@@ -102,6 +102,6 @@
     количестве пройденных и упавших тестов, временем прохождения тестов, ссылкой на отчет и др.
 
 <p align="center">
-  <img src="src/main/resources/file_to_Readme/TelegramReport.jpg" width="350" title="IntelliJ IDEA">
+  <img src="src/image/TelegramReport.jpg" width="350" title="TelegramReport">
 </p>
 

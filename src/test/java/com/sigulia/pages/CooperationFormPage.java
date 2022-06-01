@@ -10,10 +10,8 @@ public class CooperationFormPage {
 
     // locators
     SelenideElement buttonStartCooperation = $(".btn_order"),
-                    namePage = $("h1"),
                     buttonService = $(".frm_order"),
                     buttonOrder = $(byText("Отправить заявку")),
-                    alertImage = $(".frm_alert"),
                     buttonFile = $(".order-fileinp"),
                     textClientWishes = $(".client_wishes"),
                     textName = $(".order-boxinput-name"),
